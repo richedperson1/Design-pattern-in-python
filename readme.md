@@ -1,4 +1,4 @@
-![Design Patterns in Python](https://repository-images.githubusercontent.com/402234324/6f1d6f80-7e0a-11eb-8521-3f08a0e2f7ff)
+![Design Patterns in Python](https://images.unsplash.com/photo-1556761175-129418cb2dfe)
 
 # Design Patterns in Python
 
